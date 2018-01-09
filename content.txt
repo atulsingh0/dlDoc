@@ -1,0 +1,33 @@
+Session01-IntroML+DL
+01 - MachineLearning.pdf
+02 - Generalization.pdf
+03 - DeepLearning.pdf
+ 
+Session02-Supervised
+01 - FeedForwardNets.pdf
+02 - Training FeedForwardNets.pdf
+ 
+Session03-Hammers
+01 - ConvNets.pdf
+02 - RecurrentNeuralNetworks.pdf
+ 
+Session04-Unsupervised
+01 - UnsupervisedLearning.pdf
+02 - AutoEncoders.pdf
+03 - RegularizedAutoencoders.pdf
+04 - RestrictedBoltzmannMachines.pdf
+05 - TrainingRBMs.pdf
+06 - Stacking.pdf
+ 
+Session05-GenerativeModels
+01 - AdversarialAttacks.pdf
+02 - GANs.pdf
+03 - VAEs.pdf
+ 
+Session06-Tools
+01 - Regularization.pdf
+02 - ModelSelection.pdf
+03 - Optimization.pdf
+ 
+Session07-Challenges
+01 - NewParadigms.pdf
